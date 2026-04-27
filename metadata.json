@@ -1,0 +1,12 @@
+{
+  "name": "Ghatak Fitness Centre",
+  "description": "Modern, bold fitness centre in Rishra/Serampore offering weight training, muscle building, and personal coaching.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Fitness Tracking",
+    "Membership Management",
+    "Gym Bookings"
+  ]
+}
